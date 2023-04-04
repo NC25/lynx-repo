@@ -27,6 +27,8 @@ bios_pg4 = pd.read_html("player-data/WNBA Stats _ Players Bios4.html")
 
 ages = pd.concat([bios_pg1[0], bios_pg2[0], bios_pg3[0], bios_pg4[0]]).reset_index()
 
+gg = 1
+
 # ----------------- DASHBOARD LAYOUT ----------------- #
 
 app.layout = dash_table.DataTable(atl.to_dict('records'), [{"name": i, "id": i} for i in atl.columns])
