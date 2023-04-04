@@ -24,9 +24,10 @@ bios_pg1 = pd.read_html("player-data/WNBA Stats _ Players Bios1.html")
 bios_pg2 = pd.read_html("player-data/WNBA Stats _ Players Bios2.html")
 bios_pg3 = pd.read_html("player-data/WNBA Stats _ Players Bios3.html")
 bios_pg4 = pd.read_html("player-data/WNBA Stats _ Players Bios4.html")
-hshshhs = 2
 
 ages = pd.concat([bios_pg1[0], bios_pg2[0], bios_pg3[0], bios_pg4[0]]).reset_index()
+
+gg = 11
 
 # ----------------- DASHBOARD LAYOUT ----------------- #
 
