@@ -18,7 +18,7 @@ pho = pd.read_csv("team-data/Phoenix Mercury.csv")
 sea = pd.read_csv("team-data/Seattle Storm.csv")
 was = pd.read_csv("team-data/Washington Mystics.csv")
 
-teams = [atl, chi, con, dal, ind, lav, la, min, ny, pho, sea, was]
+all_players = pd.read_csv("all_players.csv")
 
 bios_pg1 = pd.read_html("player-data/WNBA Stats _ Players Bios1.html")
 bios_pg2 = pd.read_html("player-data/WNBA Stats _ Players Bios2.html")
