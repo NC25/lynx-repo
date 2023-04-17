@@ -20,18 +20,27 @@ was = pd.read_csv("team-data/Washington Mystics.csv")
 
 teams = [atl, chi, con, dal, ind, lav, la, min, ny, pho, sea, was]
 
-bios_pg1 = pd.read_html("player-data/WNBA Stats _ Players Bios1.html")
-bios_pg2 = pd.read_html("player-data/WNBA Stats _ Players Bios2.html")
-bios_pg3 = pd.read_html("player-data/WNBA Stats _ Players Bios3.html")
-bios_pg4 = pd.read_html("player-data/WNBA Stats _ Players Bios4.html")
+ages1 = pd.read_html("player-data/WNBA Stats _ Players Bios1.html", flavor = "lxml")
+ages2 = pd.read_html("player-data/WNBA Stats _ Players Bios2.html", flavor = "lxml")
+ages3 = pd.read_html("player-data/WNBA Stats _ Players Bios3.html", flavor = "lxml")
+ages4 = pd.read_html("player-data/WNBA Stats _ Players Bios4.html", flavor = "lxml")
+ages = pd.concat([ages1[0], ages2[0], ages3[0], ages2[0]])
+ages = ages.reset_index()[["Player", "Age"]]
 
-ages = pd.concat([bios_pg1[0], bios_pg2[0], bios_pg3[0], bios_pg4[0]]).reset_index()
+all_players = pd.read_csv("all_players.csv")
+all_players.sort_values(by = "PLAYER")
+
+ages["Player"] = ages["Player"].astype(str)
+all_players["PLAYER"] = all_players["PLAYER"].astype(str)
+all_players["PLAYER"] = all_players["PLAYER"].str.split().str.join(' ')
+merged = pd.merge(left = ages, right = all_players, left_on = "Player", right_on = "PLAYER")
+merged["2023 Salary"] = merged["2023"].str.replace(",", "").str.extract('\$(.*)').astype(float)
+merged.to_csv("merged.csv")
+merged = merged.sort_values("2023 Salary", ascending=False)
 
 # ----------------- DASHBOARD LAYOUT ----------------- #
 
-app.layout = html.Div([
-    html.Div(children='Hello World')
-])
+import plotly.express as px
 
-if __name__ == '__main__':
-    app.run_server(debug=True)
+fig = px.scatter(merged, x="Age", y="2023 Salary", color = "TEAM", hover_data = ["Player"], trendline = "lowess", trendline_scope = "overall", title = "Age vs WNBA 2023 Salary", trendline_options=dict(frac=0.5))
+fig.show()
