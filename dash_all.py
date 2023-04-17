@@ -7,13 +7,14 @@ import pandas as pd
 
 app = Dash(__name__)
 
+bios_pg1 = pd.read_html("player-data/WNBA Stats _ Players Bios1.html")
+bios_pg2 = pd.read_html("player-data/WNBA Stats _ Players Bios2.html")
+bios_pg3 = pd.read_html("player-data/WNBA Stats _ Players Bios3.html")
+bios_pg4 = pd.read_html("player-data/WNBA Stats _ Players Bios4.html")
+
 # assume you have a "long-form" data frame
 # see https://plotly.com/python/px-arguments/ for more options
-df = pd.DataFrame({
-    "Fruit": ["Apples", "Oranges", "Bananas", "Apples", "Oranges", "Bananas"],
-    "Amount": [4, 1, 2, 2, 4, 5],
-    "City": ["SF", "SF", "SF", "Montreal", "Montreal", "Montreal"]
-})
+df = pd.read_csv("all_players")
 
 fig = px.bar(df, x="Fruit", y="Amount", color="City", barmode="group")
 
