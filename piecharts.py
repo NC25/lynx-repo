@@ -73,7 +73,6 @@ app = Dash(__name__)
 
 app.layout = html.Div([
     html.H4('Team Salary Cap divided by salaries of players + additional cap space for next year'),
-    dcc.Graph(id='graph'),
     html.P("Team:"),
     dcc.Dropdown(id='teams',
         options=[{'label': i, 'value': i} for i in teams],
@@ -92,6 +91,7 @@ app.layout = html.Div([
         multi=False,
         clearable=False
     ),
+    dcc.Graph(id='graph'),
 
 ])
 
@@ -103,8 +103,9 @@ app.layout = html.Div([
 )
 def update_graph(year, team):
     dff = df[df["TEAM"] == team]
-    
-    fig = px.pie(dff, names = 'PLAYER', values = str(year))
+
+    year_type = str(year) + " TYPE"
+    fig = px.pie(dff, names = 'PLAYER', hover_data = [year_type], values = str(year), height=500, width=500)
     fig.update_traces(textposition='inside', textinfo='percent+label')
 
     return fig
