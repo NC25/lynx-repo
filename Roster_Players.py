@@ -41,7 +41,35 @@ pattern = r'Total|Roster|Veteran|Roster|Player|Cap Room|Salary|Minimum|--|2023|2
 mask = ~merged_df['PLAYER'].str.contains(pattern)
 merged_df = merged_df[mask]
 
+merged_df['2023 TYPE'] = merged_df['2023 TYPE'].replace({'V': 'Protected Veteran', 'R': 'Protected Rookie Scale', 'U': 'Unprotected', 
+                                               'OPT': 'Team Option', 'TC': 'Training Camp', 
+                                               'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
+                                              'SuspCE': 'Suspended-Contract Expired'})
+
+merged_df['2024 TYPE'] = merged_df['2024 TYPE'].replace({'V': 'Protected Veteran', 'R': 'Protected Rookie Scale', 'U': 'Unprotected', 
+                                               'OPT': 'Team Option', 'TC': 'Training Camp', 
+                                               'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
+                                              'SuspCE': 'Suspended-Contract Expired'})
+
+merged_df['2025 TYPE'] = merged_df['2025 TYPE'].replace({'V': 'Protected Veteran', 'R': 'Protected Rookie Scale', 'U': 'Unprotected', 
+                                               'OPT': 'Team Option', 'TC': 'Training Camp', 
+                                               'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
+                                              'SuspCE': 'Suspended-Contract Expired'})
+
+merged_df['2026 TYPE'] = merged_df['2025 TYPE'].replace({'V': 'Protected Veteran', 'R': 'Protected Rookie Scale', 'U': 'Unprotected', 
+                                               'OPT': 'Team Option', 'TC': 'Training Camp', 
+                                               'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
+                                              'SuspCE': 'Suspended-Contract Expired'})
+
+merged_df['2027 TYPE'] = merged_df['2025 TYPE'].replace({'V': 'Protected Veteran', 'R': 'Protected Rookie Scale', 'U': 'Unprotected', 
+                                               'OPT': 'Team Option', 'TC': 'Training Camp', 
+                                               'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
+                                              'SuspCE': 'Suspended-Contract Expired'})
+
 options = [{'label': val, 'value': val} for val in merged_df['TEAM'].unique()]
+
+color_scale = [    {'if': {'column_id': '2023 TYPE', 'filter_query': '{2023 TYPE} eq "UFA"'},     'backgroundColor': 'green', 'color': 'white'},    {'if': {'column_id': '2024 TYPE', 'filter_query': '{2024 TYPE} eq "UFA"'},     'backgroundColor': 'red', 'color': 'white'}]
+
 
 app = dash.Dash(__name__)
 
@@ -55,7 +83,8 @@ app.layout = html.Div([
     DataTable(
         id='table',
         columns=[{"name": i, "id": i} for i in merged_df.columns],
-        data=merged_df.to_dict('records')
+        data=merged_df.to_dict('records'),
+        style_data_conditional=color_scale
     )
 ])
 
