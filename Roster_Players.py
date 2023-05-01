@@ -68,7 +68,7 @@ merged_df['2027 TYPE'] = merged_df['2025 TYPE'].replace({'V': 'Protected Veteran
 
 options = [{'label': val, 'value': val} for val in merged_df['TEAM'].unique()]
 
-color_scale = [    {'if': {'column_id': '2023 TYPE', 'filter_query': '{2023 TYPE} eq "UFA"'},     'backgroundColor': 'green', 'color': 'white'},    {'if': {'column_id': '2024 TYPE', 'filter_query': '{2024 TYPE} eq "UFA"'},     'backgroundColor': 'red', 'color': 'white'}]
+color_scale = [    {'if': {'column_id': '2023 TYPE', 'filter_query': '{2023 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2024 TYPE', 'filter_query': '{2024 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2025 TYPE', 'filter_query': '{2025 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2026 TYPE', 'filter_query': '{2026 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2027 TYPE', 'filter_query': '{2027 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'}]
 
 
 app = dash.Dash(__name__)
