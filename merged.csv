@@ -1,182 +1,150 @@
-,Player,Age,Unnamed: 0,PLAYER,2023 TYPE,2023,2024 TYPE,2024,2025 TYPE,2025,2026 TYPE,2026,2027 TYPE,2027,CORE YEARS,TEAM,2023 Salary
-0,A'ja Wilson,26,0,A'ja Wilson,V,"$202,154 ",UFA,0,0,0,0,0,0,0,0,Las Vegas Aces,202154.0
-1,Aari McDonald,24,5,Aari McDonald,U,"$78,586 ",R,"$89,302 ",RFA,0,0,0,0,0,0.0,Atlanta Dream,78586.0
-2,Aerial Powers,29,2,Aerial Powers,V,"$201,984 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,201984.0
-3,Aisha Sheppard,24,11,Aisha Sheppard,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0,Las Vegas Aces,64657.0
-4,Alanna Smith,26,7,Alanna Smith,U,"$100,000 ",UFA,0,0,0,0,0,0,0,0,Chicago Sky,100000.0
-5,Allie Quigley,36,16,Allie Quigley,UFA,0,0,0,0,0,0,0,0,0,2018,Chicago Sky,
-6,Allisha Gray,28,1,Allisha Gray,V,"$194,600 ",V,"$185,000 ",V,"$190,000 ",UFA,0,0,0,0.0,Atlanta Dream,194600.0
-7,Alysha Clark,35,5,Alysha Clark,V,"$110,000 ",V,"$110,000 ",UFA,0,0,0,0,0,0,Las Vegas Aces,110000.0
-8,Alyssa Thomas,30,1,Alyssa Thomas,V,"$212,000 ",V,"$218,000 ",UFA,0,0,0,0,0,0,Connecticut Sun,212000.0
-9,Anneli Maley,24,14,Anneli Maley,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Chicago Sky,62285.0
-10,Ariel Atkins,26,4,Ariel Atkins,V,"$175,000 ",UFA,0,0,0,0,0,0,0,0.0,Washington Mystics,175000.0
-11,Arike Ogunbowale,26,0,Arike Ogunbowale,V,"$234,936 ",V,"$241,984 ",V,"$249,032 ",UFA,0,0,0,0,Dallas Wings,234936.0
-12,Awak Kuier,21,7,Awak Kuier,U,"$78,586 ",R,"$89,302 ",RFA,0,0,0,0,0,0,Dallas Wings,78586.0
-13,Azurá Stevens,27,0,Azurá Stevens,V,"$190,000 ",V,"$195,000 ",UFA,0,0,0,0,0,0,Los Angeles Sparks,190000.0
-14,Beatrice Mompremier,26,7,Beatrice Mompremier,TC,"$74,305 ",RFA,0,0,0,0,0,0,0,0.0,Atlanta Dream,74305.0
-15,Betnijah Laney,29,1,Betnijah Laney,V,"$201,984 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,201984.0
-16,Breanna Stewart,28,3,Breanna Stewart,V,"$175,000 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,175000.0
-17,Bria Hartley,30,15,Bria Hartley,UFA,0,0,0,0,0,0,0,0,0,0,Connecticut Sun,
-18,Briann January,36,14,Briann January,UFA,0,0,0,0,0,0,0,0,0,0,Seattle Storm,
-19,Brianna Turner,26,4,Brianna Turner,V,"$150,000 ",V,"$150,000 ",UFA,0,0,0,0,0,0,Phoenix Mercury,150000.0
-20,Bridget Carleton,25,6,Bridget Carleton,V,"$91,000 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,91000.0
-21,Brionna Jones,27,2,Brionna Jones,V,"$208,000 ",UFA,0,0,0,0,0,0,0,2023,Connecticut Sun,208000.0
-22,Brittney Sykes,29,1,Brittney Sykes,V,"$190,000 ",V,"$190,000 ",V,"$195,000 ",UFA,0,0,0,0.0,Washington Mystics,190000.0
-23,Candace Parker,36,6,Candace Parker,U,"$100,000 ",UFA,0,0,0,0,0,0,0,"2015, 2016, 2017",Las Vegas Aces,100000.0
-24,Charli Collier,23,6,Charli Collier,U,"$78,586 ",OPT,"$89,302 ",RFA,0,0,0,0,0,0,Dallas Wings,78586.0
-25,Chelsea Gray,30,2,Chelsea Gray,V,"$196,267 ",V,"$196,267 ",UFA,0,0,0,0,0,0,Las Vegas Aces,196267.0
-26,Chennedy Carter,24,16,Chennedy Carter,Waived,"$86,701 ",0,0,0,0,0,0,0,0,0,Los Angeles Sparks,86701.0
-27,Cheyenne Parker,30,0,Cheyenne Parker,V,"$216,100 ",V,"$200,000 ",UFA,0,0,0,0,0,0.0,Atlanta Dream,216100.0
-28,Chiney Ogwumike,31,5,Chiney Ogwumike,U,"$90,000 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,90000.0
-29,Courtney Vandersloot,34,2,Courtney Vandersloot,V,"$189,000 ",V,"$194,670 ",UFA,0,0,0,0,0,2019,New York Liberty,189000.0
-30,Courtney Williams,28,3,Courtney Williams,V,"$160,000 ",UFA,0,0,0,0,0,0,0,0,Chicago Sky,160000.0
-31,Crystal Dangerfield,24,5,Crystal Dangerfield,U,"$80,000 ",U,"$80,000 ",UFA,0,0,0,0,0,0,Dallas Wings,80000.0
-32,Damiris Dantas,30,10,Damiris Dantas,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,74305.0
-33,Dana Evans,24,10,Dana Evans,U,"$69,053 ",OPT,"$78,469 ",RFA,0,0,0,0,0,0,Chicago Sky,69053.0
-34,Danielle Robinson,33,2,Danielle Robinson,V,"$155,000 ",UFA,0,0,0,0,0,0,0,0.0,Atlanta Dream,155000.0
-35,DeWanna Bonner,35,0,DeWanna Bonner,V,"$234,350 ",UFA,0,0,0,0,0,0,0,"2015, 2016, 2018, 2019",Connecticut Sun,234350.0
-36,Dearica Hamby,29,3,Dearica Hamby,V,"$169,000 ",V,"$169,000 ",UFA,0,0,0,0,0,0,Los Angeles Sparks,169000.0
-37,Destanni Henderson,24,9,Destanni Henderson,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0.0,Indiana Fever,64657.0
-38,Destiny Slocum,25,11,Destiny Slocum,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Phoenix Mercury,62285.0
-39,DiDi Richards,24,10,DiDi Richards,U,"$69,053 ",OPT,"$78,469 ",RFA,0,0,0,0,0,0,New York Liberty,69053.0
-40,DiJonai Carrington,25,7,DiJonai Carrington,U,"$69,053 ",OPT,"$78,469 ",RFA,0,0,0,0,0,0,Connecticut Sun,69053.0
-41,Diamond DeShields,28,3,Diamond DeShields,V,"$154,500 ",UFA,0,0,0,0,0,0,0,0,Dallas Wings,154500.0
-42,Diana Taurasi,40,0,Diana Taurasi,V,"$234,936 ",V,"$234,936 ",UFA,0,0,0,0,0,0,Phoenix Mercury,234936.0
-43,Elena Delle Donne,33,0,Elena Delle Donne,V,"$234,350 ",UFA,0,0,0,0,0,0,0,0.0,Washington Mystics,234350.0
-44,Elizabeth Williams,29,4,Elizabeth Williams,V,"$135,000 ",V,"$135,000 ",UFA,0,0,0,0,0,0,Chicago Sky,135000.0
-45,Emily Engstler,22,4,Emily Engstler,U,"$73,584 ",U,"$80,943 ",OPT,"$91,981 ",RFA,0,0,0,0.0,Indiana Fever,73584.0
-46,Emily Engstler,22,4,Emily Engstler,U,"$73,584 ",U,"$80,943 ",OPT,"$91,981 ",RFA,0,0,0,0.0,Indiana Fever,73584.0
-47,Emma Cannon,33,3,Emma Cannon,V,"$80,000 ",UFA,0,0,0,0,0,0,0,0.0,Indiana Fever,80000.0
-48,Emma Cannon,33,3,Emma Cannon,V,"$80,000 ",UFA,0,0,0,0,0,0,0,0.0,Indiana Fever,80000.0
-49,Emma Meesseman,29,15,Emma Meesseman,UFA,0,0,0,0,0,0,0,0,0,0,Chicago Sky,
-50,Emma Meesseman,29,15,Emma Meesseman,UFA,0,0,0,0,0,0,0,0,0,0,Chicago Sky,
-51,Epiphanny Prince,35,8,Epiphanny Prince,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,74305.0
-52,Epiphanny Prince,35,8,Epiphanny Prince,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,74305.0
-53,Erica Wheeler,31,1,Erica Wheeler,V,"$202,154 ",V,"$202,154 ",UFA,0,0,0,0,0,0.0,Indiana Fever,202154.0
-54,Erica Wheeler,31,1,Erica Wheeler,V,"$202,154 ",V,"$202,154 ",UFA,0,0,0,0,0,0.0,Indiana Fever,202154.0
-55,Evina Westbrook,24,13,Evina Westbrook,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Washington Mystics,62285.0
-56,Evina Westbrook,24,13,Evina Westbrook,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Washington Mystics,62285.0
-57,Ezi Magbegor,23,2,Ezi Magbegor,V,"$159,650 ",V,"$155,000 ",UFA,0,0,0,0,0,0,Seattle Storm,159650.0
-58,Ezi Magbegor,23,2,Ezi Magbegor,V,"$159,650 ",V,"$155,000 ",UFA,0,0,0,0,0,0,Seattle Storm,159650.0
-59,Gabby Williams,26,16,Gabby Williams,RFA,0,0,0,0,0,0,0,0,0,0,Seattle Storm,
-60,Gabby Williams,26,16,Gabby Williams,RFA,0,0,0,0,0,0,0,0,0,0,Seattle Storm,
-61,Han Xu,23,12,Han Xu,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,New York Liberty,62285.0
-62,Han Xu,23,12,Han Xu,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,New York Liberty,62285.0
-63,Iliana Rupert,21,9,Iliana Rupert,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0.0,Atlanta Dream,67634.0
-64,Iliana Rupert,21,9,Iliana Rupert,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0.0,Atlanta Dream,67634.0
-65,Isabelle Harrison,29,2,Isabelle Harrison,V,"$160,000 ",V,"$160,000 ",UFA,0,0,0,0,0,0,Chicago Sky,160000.0
-66,Isabelle Harrison,29,2,Isabelle Harrison,V,"$160,000 ",V,"$160,000 ",UFA,0,0,0,0,0,0,Chicago Sky,160000.0
-67,Jackie Young,25,3,Jackie Young,V,"$165,000 ",V,"$169,950 ",UFA,0,0,0,0,0,0,Las Vegas Aces,165000.0
-68,Jackie Young,25,3,Jackie Young,V,"$165,000 ",V,"$169,950 ",UFA,0,0,0,0,0,0,Las Vegas Aces,165000.0
-69,Jantel Lavender,34,16,Jantel Lavender,Buyout,"$119,000 ",0,0,0,0,0,0,0,0,0.0,Indiana Fever,119000.0
-70,Jantel Lavender,34,15,Jantel Lavender,UFA,0,0,0,0,0,0,0,0,0,0,Seattle Storm,
-71,Jantel Lavender,34,16,Jantel Lavender,Buyout,"$119,000 ",0,0,0,0,0,0,0,0,0.0,Indiana Fever,119000.0
-72,Jantel Lavender,34,15,Jantel Lavender,UFA,0,0,0,0,0,0,0,0,0,0,Seattle Storm,
-73,Jasmine Dickey,23,11,Jasmine Dickey,U,"$62,285 ",U,"$64,767 ",OPT,"$74,019 ",RFA,0,0,0,0,Dallas Wings,62285.0
-74,Jasmine Dickey,23,11,Jasmine Dickey,U,"$62,285 ",U,"$64,767 ",OPT,"$74,019 ",RFA,0,0,0,0,Dallas Wings,62285.0
-75,Jasmine Thomas,33,1,Jasmine Thomas,V,"$190,000 ",UFA,0,0,0,0,0,0,0,"2019, 2020",Los Angeles Sparks,190000.0
-76,Jasmine Thomas,33,1,Jasmine Thomas,V,"$190,000 ",UFA,0,0,0,0,0,0,0,"2019, 2020",Los Angeles Sparks,190000.0
-77,Jasmine Walker,25,7,Jasmine Walker,U,"$70,000 ",Reserved,0,0,0,0,0,0,0,0,Seattle Storm,70000.0
-78,Jasmine Walker,25,7,Jasmine Walker,U,"$70,000 ",Reserved,0,0,0,0,0,0,0,0,Seattle Storm,70000.0
-79,Jazmine Jones,26,11,Jazmine Jones,TC,"$62,285 ",RFA,0,0,0,0,0,0,0,0.0,Washington Mystics,62285.0
-80,Jazmine Jones,26,15,Jazmine Jones,Reserved,0,0,0,0,0,0,0,0,0,0.0,Washington Mystics,
-81,Jazmine Jones,26,11,Jazmine Jones,TC,"$62,285 ",RFA,0,0,0,0,0,0,0,0.0,Washington Mystics,62285.0
-82,Jazmine Jones,26,15,Jazmine Jones,Reserved,0,0,0,0,0,0,0,0,0,0.0,Washington Mystics,
-83,Jennie Simms,28,10,Jennie Simms,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Phoenix Mercury,62285.0
-84,Jennie Simms,28,10,Jennie Simms,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Phoenix Mercury,62285.0
-85,Jessica Shepard,26,5,Jessica Shepard,U,"$120,000 ",U,"$123,600 ",UFA,0,0,0,0,0,0,Minnesota Lynx,120000.0
-86,Jessica Shepard,26,5,Jessica Shepard,U,"$120,000 ",U,"$123,600 ",UFA,0,0,0,0,0,0,Minnesota Lynx,120000.0
-87,Jewell Loyd,29,0,Jewell Loyd,V,"$234,936 ",UFA,0,0,0,0,0,0,0,"2022, 2023",Seattle Storm,234936.0
-88,Jewell Loyd,29,0,Jewell Loyd,V,"$234,936 ",UFA,0,0,0,0,0,0,0,"2022, 2023",Seattle Storm,234936.0
-89,Jocelyn Willoughby,25,7,Jocelyn Willoughby,R,"$79,690 ",RFA,0,0,0,0,0,0,0,0,New York Liberty,79690.0
-90,Jocelyn Willoughby,25,7,Jocelyn Willoughby,R,"$79,690 ",RFA,0,0,0,0,0,0,0,0,New York Liberty,79690.0
-91,Jonquel Jones,29,0,Jonquel Jones,V,"$211,150 ",UFA,0,0,0,0,0,0,0,"2022, 2023",New York Liberty,211150.0
-92,Jonquel Jones,29,0,Jonquel Jones,V,"$211,150 ",UFA,0,0,0,0,0,0,0,"2022, 2023",New York Liberty,211150.0
-93,Jordin Canada,27,7,Jordin Canada,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,74305.0
-94,Jordin Canada,27,7,Jordin Canada,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,74305.0
-95,Julie Allemand,26,18,Julie Allemand,Full Susp,0,SuspCE,0,0,0,0,0,0,0,0,Chicago Sky,
-96,Julie Allemand,26,18,Julie Allemand,Full Susp,0,SuspCE,0,0,0,0,0,0,0,0,Chicago Sky,
-97,Kahleah Copper,28,0,Kahleah Copper,V,"$205,000 ",UFA,0,0,0,0,0,0,0,"2022, 2023",Chicago Sky,205000.0
-98,Kahleah Copper,28,0,Kahleah Copper,V,"$205,000 ",UFA,0,0,0,0,0,0,0,"2022, 2023",Chicago Sky,205000.0
-99,Kaila Charles,25,10,Kaila Charles,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Seattle Storm,62285.0
-100,Kaila Charles,25,10,Kaila Charles,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Seattle Storm,62285.0
-101,Karlie Samuelson,27,10,Karlie Samuelson,TC,"$74,305 ",RFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,74305.0
-102,Karlie Samuelson,27,10,Karlie Samuelson,TC,"$74,305 ",RFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,74305.0
-103,Katie Lou Samuelson,25,4,Katie Lou Samuelson,V,"$130,000 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,130000.0
-104,Katie Lou Samuelson,25,4,Katie Lou Samuelson,V,"$130,000 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,130000.0
-105,Kayla McBride,30,1,Kayla McBride,V,"$201,984 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,201984.0
-106,Kayla McBride,30,1,Kayla McBride,V,"$201,984 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,201984.0
-107,Kayla Thornton,30,5,Kayla Thornton,V,"$109,716 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,109716.0
-108,Kayla Thornton,30,5,Kayla Thornton,V,"$109,716 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,109716.0
-109,Kelsey Mitchell,27,0,Kelsey Mitchell,V,"$206,000 ",V,"$212,000 ",UFA,0,0,0,0,0,0.0,Indiana Fever,206000.0
-110,Kelsey Mitchell,27,0,Kelsey Mitchell,V,"$206,000 ",V,"$212,000 ",UFA,0,0,0,0,0,0.0,Indiana Fever,206000.0
-111,Kelsey Plum,28,1,Kelsey Plum,V,"$200,000 ",V,"$200,000 ",UFA,0,0,0,0,0,0,Las Vegas Aces,200000.0
-112,Kelsey Plum,28,1,Kelsey Plum,V,"$200,000 ",V,"$200,000 ",UFA,0,0,0,0,0,0,Las Vegas Aces,200000.0
-113,Khayla Pointer,24,14,Khayla Pointer,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Indiana Fever,62285.0
-114,Khayla Pointer,24,14,Khayla Pointer,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Indiana Fever,62285.0
-115,Kia Vaughn,36,13,Kia Vaughn,UFA,0,0,0,0,0,0,0,0,0,0.0,Atlanta Dream,
-116,Kia Vaughn,36,13,Kia Vaughn,UFA,0,0,0,0,0,0,0,0,0,0.0,Atlanta Dream,
-117,Kiah Stokes,30,7,Kiah Stokes,U,"$81,000 ",UFA,0,0,0,0,0,0,0,0,Las Vegas Aces,81000.0
-118,Kiah Stokes,30,7,Kiah Stokes,U,"$81,000 ",UFA,0,0,0,0,0,0,0,0,Las Vegas Aces,81000.0
-119,Kiana Williams,23,13,Kiana Williams,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Minnesota Lynx,62285.0
-120,Kiana Williams,23,13,Kiana Williams,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Minnesota Lynx,62285.0
-121,Kianna Smith,23,16,Kianna Smith,Reserved,0,0,0,0,0,0,0,0,0,0,Connecticut Sun,
-122,Kianna Smith,23,16,Kianna Smith,Reserved,0,0,0,0,0,0,0,0,0,0,Connecticut Sun,
-123,Kierstan Bell,23,10,Kierstan Bell,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0,Las Vegas Aces,67634.0
-124,Kierstan Bell,23,10,Kierstan Bell,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0,Las Vegas Aces,67634.0
-125,Kristi Toliver,36,13,Kristi Toliver,UFA,0,0,0,0,0,0,0,0,0,0,Los Angeles Sparks,
-126,Kristi Toliver,36,13,Kristi Toliver,UFA,0,0,0,0,0,0,0,0,0,0,Los Angeles Sparks,
-127,Kristine Anigwe,26,9,Kristine Anigwe,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Chicago Sky,74305.0
-128,Kristine Anigwe,26,9,Kristine Anigwe,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Chicago Sky,74305.0
-129,Kristy Wallace,27,10,Kristy Wallace,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0.0,Indiana Fever,64657.0
-130,Kristy Wallace,27,10,Kristy Wallace,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0.0,Indiana Fever,64657.0
-131,Lexie Brown,28,6,Lexie Brown,U,"$78,000 ",U,"$80,340 ",UFA,0,0,0,0,0,0,Los Angeles Sparks,78000.0
-132,Lexie Brown,28,6,Lexie Brown,U,"$78,000 ",U,"$80,340 ",UFA,0,0,0,0,0,0,Los Angeles Sparks,78000.0
-133,Lexie Hull,23,6,Lexie Hull,U,"$70,609 ",U,"$77,669 ",OPT,"$88,261 ",RFA,0,0,0,0.0,Indiana Fever,70609.0
-134,Lexie Hull,23,6,Lexie Hull,U,"$70,609 ",U,"$77,669 ",OPT,"$88,261 ",RFA,0,0,0,0.0,Indiana Fever,70609.0
-135,Li Yueru,24,11,Li Yueru,U,"$62,285 ",U,"$64,767 ",OPT,"$74,019 ",RFA,0,0,0,0,Chicago Sky,62285.0
-136,Li Yueru,24,11,Li Yueru,U,"$62,285 ",U,"$64,767 ",OPT,"$74,019 ",RFA,0,0,0,0,Chicago Sky,62285.0
-137,Lindsay Allen,28,8,Lindsay Allen,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,74305.0
-138,Lorela Cubaj,24,12,Lorela Cubaj,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Atlanta Dream,62285.0
-139,Marina Mabrey,26,1,Marina Mabrey,V,"$202,000 ",V,"$208,000 ",V,"$210,000 ",UFA,0,0,0,0,Chicago Sky,202000.0
-140,Marine Johannès,28,15,Marine Johannès,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,New York Liberty,62285.0
-141,Maya Caldwell,24,7,Maya Caldwell,U,"$68,000 ",Reserved,0,0,0,0,0,0,0,0.0,Indiana Fever,68000.0
-142,Megan Gustafson,26,7,Megan Gustafson,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Phoenix Mercury,74305.0
-143,Mercedes Russell,27,1,Mercedes Russell,V,"$160,000 ",V,"$160,000 ",UFA,0,0,0,0,0,0,Seattle Storm,160000.0
-144,Michaela Onyenwere,23,6,Michaela Onyenwere,U,"$75,407 ",OPT,"$85,690 ",RFA,0,0,0,0,0,0,Phoenix Mercury,75407.0
-145,Monique Billings,26,3,Monique Billings,V,"$145,000 ",UFA,0,0,0,0,0,0,0,0.0,Atlanta Dream,145000.0
-146,Moriah Jefferson,29,5,Moriah Jefferson,V,"$137,500 ",V,"$141,500 ",V,"$145,500 ",UFA,0,0,0,0,Phoenix Mercury,137500.0
-147,Myisha Hines-Allen,26,3,Myisha Hines-Allen,V,"$175,100 ",V,"$180,200 ",UFA,0,0,0,0,0,0.0,Washington Mystics,175100.0
-148,NaLyssa Smith,22,5,NaLyssa Smith,U,"$73,584 ",U,"$80,943 ",OPT,"$91,981 ",RFA,0,0,0,0.0,Indiana Fever,73584.0
-149,Napheesa Collier,26,0,Napheesa Collier,U,"$202,154 ",U,"$208,219 ",U,"$214,284 ",UFA,0,0,0,0,Minnesota Lynx,202154.0
-150,Natalie Achonwa,30,3,Natalie Achonwa,V,"$155,100 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,155100.0
-151,Natasha Cloud,31,2,Natasha Cloud,V,"$190,000 ",UFA,0,0,0,0,0,0,0,0.0,Washington Mystics,190000.0
-152,Natasha Howard,31,1,Natasha Howard,V,"$227,900 ",V,"$234,350 ",UFA,0,0,0,0,0,"2021, 2022, 2023, 2024",Dallas Wings,227900.0
-153,Natisha Hiedeman,26,5,Natisha Hiedeman,U,"$120,000 ",U,"$120,000 ",UFA,0,0,0,0,0,0,Connecticut Sun,120000.0
-154,Naz Hillmon,22,10,Naz Hillmon,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0.0,Atlanta Dream,64657.0
-155,Nia Clouden,22,8,Nia Clouden,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0,Connecticut Sun,67634.0
-156,Nia Coffey,27,4,Nia Coffey,V,"$130,000 ",UFA,0,0,0,0,0,0,0,0.0,Atlanta Dream,130000.0
-157,Nneka Ogwumike,32,2,Nneka Ogwumike,V,"$169,500 ",UFA,0,0,0,0,0,0,0,"2021, 2022",Los Angeles Sparks,169500.0
-158,Olivia Nelson-Ododa,22,9,Olivia Nelson-Ododa,U,"$64,657 ",U,"$71,124 ",OPT,"$80,823 ",RFA,0,0,0,0,Connecticut Sun,64657.0
-159,Queen Egbo,22,8,Queen Egbo,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0.0,Indiana Fever,67634.0
-160,Rachel Banham,29,9,Rachel Banham,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Minnesota Lynx,74305.0
-161,Rae Burrell,22,11,Rae Burrell,U,"$67,634 ",U,"$74,398 ",OPT,"$84,543 ",RFA,0,0,0,0,Los Angeles Sparks,67634.0
-162,Rebecca Allen,30,4,Rebecca Allen,V,"$136,850 ",UFA,0,0,0,0,0,0,0,0,Connecticut Sun,136850.0
-163,Rebekah Gardner,32,6,Rebekah Gardner,U,"$100,000 ",Reserved,0,0,0,0,0,0,0,0,Chicago Sky,100000.0
-164,Rennia Davis,24,11,Rennia Davis,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Indiana Fever,62285.0
-165,Reshanda Gray,29,9,Reshanda Gray,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Los Angeles Sparks,74305.0
-166,Rhyne Howard,22,8,Rhyne Howard,U,"$73,584 ",U,"$80,943 ",OPT,"$91,981 ",RFA,0,0,0,0.0,Atlanta Dream,73584.0
-167,Riquna Williams,32,4,Riquna Williams,U,"$149,350 ",UFA,0,0,0,0,0,0,0,0,Las Vegas Aces,149350.0
-168,Rui Machida,30,14,Rui Machida,UFA,0,0,0,0,0,0,0,0,0,0.0,Washington Mystics,
-169,Ruthy Hebard,24,8,Ruthy Hebard,R,"$83,194 ",RFA,0,0,0,0,0,0,0,0,Chicago Sky,83194.0
-170,Sabrina Ionescu,25,6,Sabrina Ionescu,R,"$86,701 ",RFA,0,0,0,0,0,0,0,0,New York Liberty,86701.0
-171,Sam Thomas,23,13,Sam Thomas,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0,Phoenix Mercury,62285.0
-172,Sami Whitcomb,34,4,Sami Whitcomb,V,"$142,500 ",V,"$140,000 ",UFA,0,0,0,0,0,0,Seattle Storm,142500.0
-173,Satou Sabally,24,4,Satou Sabally,R,"$86,701 ",RFA,0,0,0,0,0,0,0,0,Dallas Wings,86701.0
-174,Shakira Austin,22,8,Shakira Austin,U,"$73,584 ",U,"$80,943 ",OPT,"$91,981 ",RFA,0,0,0,0.0,Washington Mystics,73584.0
-175,Shatori Walker-Kimbrough,27,5,Shatori Walker-Kimbrough,V,"$95,000 ",U,"$97,850 ",UFA,0,0,0,0,0,0.0,Washington Mystics,95000.0
-176,Shey Peddy,34,8,Shey Peddy,TC,"$74,305 ",UFA,0,0,0,0,0,0,0,0,Phoenix Mercury,74305.0
-177,Skylar Diggins-Smith,32,1,Skylar Diggins-Smith,V,"$234,350 ",UFA,0,0,0,0,0,0,0,"2020, 2021, 2022, 2023",Phoenix Mercury,234350.0
-178,Sophie Cunningham,26,3,Sophie Cunningham,V,"$150,000 ",V,"$154,500 ",UFA,0,0,0,0,0,0,Phoenix Mercury,150000.0
-179,Stefanie Dolson,31,4,Stefanie Dolson,V,"$160,000 ",UFA,0,0,0,0,0,0,0,0,New York Liberty,160000.0
-180,Stephanie Jones,24,12,Stephanie Jones,TC,"$62,285 ",Reserved,0,0,0,0,0,0,0,0.0,Washington Mystics,62285.0
+,Player,Age,Unnamed: 0,PLAYER,2023 TYPE,2023,2024 TYPE,2024,2025 TYPE,2025,2026 TYPE,2026,2027 TYPE,2027,CORE YEARS,TEAM
+0,A'ja Wilson,26,0,A'ja Wilson,V,202154.0,UFA,,0,,0,,0,0,0,Las Vegas Aces
+1,Aari McDonald,24,5,Aari McDonald,U,78586.0,R,89302.0,RFA,,0,,0,0,0.0,Atlanta Dream
+2,Aerial Powers,29,2,Aerial Powers,V,201984.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+3,Aisha Sheppard,24,11,Aisha Sheppard,U,64657.0,U,71124.0,OPT,80823.0,RFA,,0,0,0,Las Vegas Aces
+4,Alanna Smith,26,7,Alanna Smith,U,100000.0,UFA,,0,,0,,0,0,0,Chicago Sky
+5,Allie Quigley,36,16,Allie Quigley,UFA,,0,,0,,0,,0,0,2018,Chicago Sky
+6,Allisha Gray,28,1,Allisha Gray,V,194600.0,V,185000.0,V,190000.0,UFA,,0,0,0.0,Atlanta Dream
+7,Alysha Clark,35,5,Alysha Clark,V,110000.0,V,110000.0,UFA,,0,,0,0,0,Las Vegas Aces
+8,Alyssa Thomas,30,1,Alyssa Thomas,V,212000.0,V,218000.0,UFA,,0,,0,0,0,Connecticut Sun
+9,Anneli Maley,24,14,Anneli Maley,TC,62285.0,Reserved,,0,,0,,0,0,0,Chicago Sky
+10,Ariel Atkins,26,4,Ariel Atkins,V,175000.0,UFA,,0,,0,,0,0,0.0,Washington Mystics
+11,Arike Ogunbowale,26,0,Arike Ogunbowale,V,234936.0,V,241984.0,V,249032.0,UFA,,0,0,0,Dallas Wings
+12,Awak Kuier,21,7,Awak Kuier,U,78586.0,R,89302.0,RFA,,0,,0,0,0,Dallas Wings
+13,Azurá Stevens,27,0,Azurá Stevens,V,190000.0,V,195000.0,UFA,,0,,0,0,0,Los Angeles Sparks
+14,Beatrice Mompremier,26,7,Beatrice Mompremier,TC,74305.0,RFA,,0,,0,,0,0,0.0,Atlanta Dream
+15,Betnijah Laney,29,1,Betnijah Laney,V,201984.0,UFA,,0,,0,,0,0,0,New York Liberty
+16,Breanna Stewart,28,3,Breanna Stewart,V,175000.0,UFA,,0,,0,,0,0,0,New York Liberty
+17,Bria Hartley,30,15,Bria Hartley,UFA,,0,,0,,0,,0,0,0,Connecticut Sun
+18,Briann January,36,14,Briann January,UFA,,0,,0,,0,,0,0,0,Seattle Storm
+19,Brianna Turner,26,4,Brianna Turner,V,150000.0,V,150000.0,UFA,,0,,0,0,0,Phoenix Mercury
+20,Bridget Carleton,25,6,Bridget Carleton,V,91000.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+21,Brionna Jones,27,2,Brionna Jones,V,208000.0,UFA,,0,,0,,0,0,2023,Connecticut Sun
+22,Brittney Sykes,29,1,Brittney Sykes,V,190000.0,V,190000.0,V,195000.0,UFA,,0,0,0.0,Washington Mystics
+23,Candace Parker,36,6,Candace Parker,U,100000.0,UFA,,0,,0,,0,0,"2015, 2016, 2017",Las Vegas Aces
+24,Charli Collier,23,6,Charli Collier,U,78586.0,OPT,89302.0,RFA,,0,,0,0,0,Dallas Wings
+25,Chelsea Gray,30,2,Chelsea Gray,V,196267.0,V,196267.0,UFA,,0,,0,0,0,Las Vegas Aces
+26,Chennedy Carter,24,16,Chennedy Carter,Waived,86701.0,0,,0,,0,,0,0,0,Los Angeles Sparks
+27,Cheyenne Parker,30,0,Cheyenne Parker,V,216100.0,V,200000.0,UFA,,0,,0,0,0.0,Atlanta Dream
+28,Chiney Ogwumike,31,5,Chiney Ogwumike,U,90000.0,UFA,,0,,0,,0,0,0,Los Angeles Sparks
+29,Courtney Vandersloot,34,2,Courtney Vandersloot,V,189000.0,V,194670.0,UFA,,0,,0,0,2019,New York Liberty
+30,Courtney Williams,28,3,Courtney Williams,V,160000.0,UFA,,0,,0,,0,0,0,Chicago Sky
+31,Crystal Dangerfield,24,5,Crystal Dangerfield,U,80000.0,U,80000.0,UFA,,0,,0,0,0,Dallas Wings
+32,Damiris Dantas,30,10,Damiris Dantas,TC,74305.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+33,Dana Evans,24,10,Dana Evans,U,69053.0,OPT,78469.0,RFA,,0,,0,0,0,Chicago Sky
+34,Danielle Robinson,33,2,Danielle Robinson,V,155000.0,UFA,,0,,0,,0,0,0.0,Atlanta Dream
+35,DeWanna Bonner,35,0,DeWanna Bonner,V,234350.0,UFA,,0,,0,,0,0,"2015, 2016, 2018, 2019",Connecticut Sun
+36,Dearica Hamby,29,3,Dearica Hamby,V,169000.0,V,169000.0,UFA,,0,,0,0,0,Los Angeles Sparks
+37,Destanni Henderson,24,9,Destanni Henderson,U,64657.0,U,71124.0,OPT,80823.0,RFA,,0,0,0.0,Indiana Fever
+38,Destiny Slocum,25,11,Destiny Slocum,TC,62285.0,Reserved,,0,,0,,0,0,0,Phoenix Mercury
+39,DiDi Richards,24,10,DiDi Richards,U,69053.0,OPT,78469.0,RFA,,0,,0,0,0,New York Liberty
+40,DiJonai Carrington,25,7,DiJonai Carrington,U,69053.0,OPT,78469.0,RFA,,0,,0,0,0,Connecticut Sun
+41,Diamond DeShields,28,3,Diamond DeShields,V,154500.0,UFA,,0,,0,,0,0,0,Dallas Wings
+42,Diana Taurasi,40,0,Diana Taurasi,V,234936.0,V,234936.0,UFA,,0,,0,0,0,Phoenix Mercury
+43,Elena Delle Donne,33,0,Elena Delle Donne,V,234350.0,UFA,,0,,0,,0,0,0.0,Washington Mystics
+44,Elizabeth Williams,29,4,Elizabeth Williams,V,135000.0,V,135000.0,UFA,,0,,0,0,0,Chicago Sky
+45,Emily Engstler,22,4,Emily Engstler,U,73584.0,U,80943.0,OPT,91981.0,RFA,,0,0,0.0,Indiana Fever
+46,Emma Cannon,33,3,Emma Cannon,V,80000.0,UFA,,0,,0,,0,0,0.0,Indiana Fever
+47,Emma Meesseman,29,15,Emma Meesseman,UFA,,0,,0,,0,,0,0,0,Chicago Sky
+48,Epiphanny Prince,35,8,Epiphanny Prince,TC,74305.0,UFA,,0,,0,,0,0,0,New York Liberty
+49,Erica Wheeler,31,1,Erica Wheeler,V,202154.0,V,202154.0,UFA,,0,,0,0,0.0,Indiana Fever
+50,Evina Westbrook,24,13,Evina Westbrook,TC,62285.0,Reserved,,0,,0,,0,0,0.0,Washington Mystics
+51,Ezi Magbegor,23,2,Ezi Magbegor,V,159650.0,V,155000.0,UFA,,0,,0,0,0,Seattle Storm
+52,Gabby Williams,26,16,Gabby Williams,RFA,,0,,0,,0,,0,0,0,Seattle Storm
+53,Han Xu,23,12,Han Xu,TC,62285.0,Reserved,,0,,0,,0,0,0,New York Liberty
+54,Iliana Rupert,21,9,Iliana Rupert,U,67634.0,U,74398.0,OPT,84543.0,RFA,,0,0,0.0,Atlanta Dream
+55,Isabelle Harrison,29,2,Isabelle Harrison,V,160000.0,V,160000.0,UFA,,0,,0,0,0,Chicago Sky
+56,Jackie Young,25,3,Jackie Young,V,165000.0,V,169950.0,UFA,,0,,0,0,0,Las Vegas Aces
+57,Jantel Lavender,34,16,Jantel Lavender,Buyout,119000.0,0,,0,,0,,0,0,0.0,Indiana Fever
+58,Jantel Lavender,34,15,Jantel Lavender,UFA,,0,,0,,0,,0,0,0,Seattle Storm
+59,Jasmine Dickey,23,11,Jasmine Dickey,U,62285.0,U,64767.0,OPT,74019.0,RFA,,0,0,0,Dallas Wings
+60,Jasmine Thomas,33,1,Jasmine Thomas,V,190000.0,UFA,,0,,0,,0,0,"2019, 2020",Los Angeles Sparks
+61,Jasmine Walker,25,7,Jasmine Walker,U,70000.0,Reserved,,0,,0,,0,0,0,Seattle Storm
+62,Jazmine Jones,26,11,Jazmine Jones,TC,62285.0,RFA,,0,,0,,0,0,0.0,Washington Mystics
+63,Jazmine Jones,26,15,Jazmine Jones,Reserved,,0,,0,,0,,0,0,0.0,Washington Mystics
+64,Jennie Simms,28,10,Jennie Simms,TC,62285.0,Reserved,,0,,0,,0,0,0,Phoenix Mercury
+65,Jessica Shepard,26,5,Jessica Shepard,U,120000.0,U,123600.0,UFA,,0,,0,0,0,Minnesota Lynx
+66,Jewell Loyd,29,0,Jewell Loyd,V,234936.0,UFA,,0,,0,,0,0,"2022, 2023",Seattle Storm
+67,Jocelyn Willoughby,25,7,Jocelyn Willoughby,R,79690.0,RFA,,0,,0,,0,0,0,New York Liberty
+68,Jonquel Jones,29,0,Jonquel Jones,V,211150.0,UFA,,0,,0,,0,0,"2022, 2023",New York Liberty
+69,Jordin Canada,27,7,Jordin Canada,TC,74305.0,UFA,,0,,0,,0,0,0,Los Angeles Sparks
+70,Julie Allemand,26,18,Julie Allemand,Full Susp,,SuspCE,,0,,0,,0,0,0,Chicago Sky
+71,Kahleah Copper,28,0,Kahleah Copper,V,205000.0,UFA,,0,,0,,0,0,"2022, 2023",Chicago Sky
+72,Kaila Charles,25,10,Kaila Charles,TC,62285.0,Reserved,,0,,0,,0,0,0,Seattle Storm
+73,Karlie Samuelson,27,10,Karlie Samuelson,TC,74305.0,RFA,,0,,0,,0,0,0,Los Angeles Sparks
+74,Katie Lou Samuelson,25,4,Katie Lou Samuelson,V,130000.0,UFA,,0,,0,,0,0,0,Los Angeles Sparks
+75,Kayla McBride,30,1,Kayla McBride,V,201984.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+76,Kayla Thornton,30,5,Kayla Thornton,V,109716.0,UFA,,0,,0,,0,0,0,New York Liberty
+77,Kelsey Mitchell,27,0,Kelsey Mitchell,V,206000.0,V,212000.0,UFA,,0,,0,0,0.0,Indiana Fever
+78,Kelsey Plum,28,1,Kelsey Plum,V,200000.0,V,200000.0,UFA,,0,,0,0,0,Las Vegas Aces
+79,Khayla Pointer,24,14,Khayla Pointer,TC,62285.0,Reserved,,0,,0,,0,0,0.0,Indiana Fever
+80,Kia Vaughn,36,13,Kia Vaughn,UFA,,0,,0,,0,,0,0,0.0,Atlanta Dream
+81,Kiah Stokes,30,7,Kiah Stokes,U,81000.0,UFA,,0,,0,,0,0,0,Las Vegas Aces
+82,Kiana Williams,23,13,Kiana Williams,TC,62285.0,Reserved,,0,,0,,0,0,0,Minnesota Lynx
+83,Kianna Smith,23,16,Kianna Smith,Reserved,,0,,0,,0,,0,0,0,Connecticut Sun
+84,Kierstan Bell,23,10,Kierstan Bell,U,67634.0,U,74398.0,OPT,84543.0,RFA,,0,0,0,Las Vegas Aces
+85,Kristi Toliver,36,13,Kristi Toliver,UFA,,0,,0,,0,,0,0,0,Los Angeles Sparks
+86,Kristine Anigwe,26,9,Kristine Anigwe,TC,74305.0,UFA,,0,,0,,0,0,0,Chicago Sky
+87,Kristy Wallace,27,10,Kristy Wallace,U,64657.0,U,71124.0,OPT,80823.0,RFA,,0,0,0.0,Indiana Fever
+88,Lexie Brown,28,6,Lexie Brown,U,78000.0,U,80340.0,UFA,,0,,0,0,0,Los Angeles Sparks
+89,Lexie Hull,23,6,Lexie Hull,U,70609.0,U,77669.0,OPT,88261.0,RFA,,0,0,0.0,Indiana Fever
+90,Li Yueru,24,11,Li Yueru,U,62285.0,U,64767.0,OPT,74019.0,RFA,,0,0,0,Chicago Sky
+91,Lindsay Allen,28,8,Lindsay Allen,TC,74305.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+92,Lorela Cubaj,24,12,Lorela Cubaj,TC,62285.0,Reserved,,0,,0,,0,0,0.0,Atlanta Dream
+93,Marina Mabrey,26,1,Marina Mabrey,V,202000.0,V,208000.0,V,210000.0,UFA,,0,0,0,Chicago Sky
+94,Marine Johannès,28,15,Marine Johannès,TC,62285.0,Reserved,,0,,0,,0,0,0,New York Liberty
+95,Maya Caldwell,24,7,Maya Caldwell,U,68000.0,Reserved,,0,,0,,0,0,0.0,Indiana Fever
+96,Megan Gustafson,26,7,Megan Gustafson,TC,74305.0,UFA,,0,,0,,0,0,0,Phoenix Mercury
+97,Mercedes Russell,27,1,Mercedes Russell,V,160000.0,V,160000.0,UFA,,0,,0,0,0,Seattle Storm
+98,Michaela Onyenwere,23,6,Michaela Onyenwere,U,75407.0,OPT,85690.0,RFA,,0,,0,0,0,Phoenix Mercury
+99,Monique Billings,26,3,Monique Billings,V,145000.0,UFA,,0,,0,,0,0,0.0,Atlanta Dream
+100,Moriah Jefferson,29,5,Moriah Jefferson,V,137500.0,V,141500.0,V,145500.0,UFA,,0,0,0,Phoenix Mercury
+101,Myisha Hines-Allen,26,3,Myisha Hines-Allen,V,175100.0,V,180200.0,UFA,,0,,0,0,0.0,Washington Mystics
+102,NaLyssa Smith,22,5,NaLyssa Smith,U,73584.0,U,80943.0,OPT,91981.0,RFA,,0,0,0.0,Indiana Fever
+103,Napheesa Collier,26,0,Napheesa Collier,U,202154.0,U,208219.0,U,214284.0,UFA,,0,0,0,Minnesota Lynx
+104,Natalie Achonwa,30,3,Natalie Achonwa,V,155100.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+105,Natasha Cloud,31,2,Natasha Cloud,V,190000.0,UFA,,0,,0,,0,0,0.0,Washington Mystics
+106,Natasha Howard,31,1,Natasha Howard,V,227900.0,V,234350.0,UFA,,0,,0,0,"2021, 2022, 2023, 2024",Dallas Wings
+107,Natisha Hiedeman,26,5,Natisha Hiedeman,U,120000.0,U,120000.0,UFA,,0,,0,0,0,Connecticut Sun
+108,Naz Hillmon,22,10,Naz Hillmon,U,64657.0,U,71124.0,OPT,80823.0,RFA,,0,0,0.0,Atlanta Dream
+109,Nia Clouden,22,8,Nia Clouden,U,67634.0,U,74398.0,OPT,84543.0,RFA,,0,0,0,Connecticut Sun
+110,Nia Coffey,27,4,Nia Coffey,V,130000.0,UFA,,0,,0,,0,0,0.0,Atlanta Dream
+111,Nneka Ogwumike,32,2,Nneka Ogwumike,V,169500.0,UFA,,0,,0,,0,0,"2021, 2022",Los Angeles Sparks
+112,Olivia Nelson-Ododa,22,9,Olivia Nelson-Ododa,U,64657.0,U,71124.0,OPT,80823.0,RFA,,0,0,0,Connecticut Sun
+113,Queen Egbo,22,8,Queen Egbo,U,67634.0,U,74398.0,OPT,84543.0,RFA,,0,0,0.0,Indiana Fever
+114,Rachel Banham,29,9,Rachel Banham,TC,74305.0,UFA,,0,,0,,0,0,0,Minnesota Lynx
+115,Rae Burrell,22,11,Rae Burrell,U,67634.0,U,74398.0,OPT,84543.0,RFA,,0,0,0,Los Angeles Sparks
+116,Rebecca Allen,30,4,Rebecca Allen,V,136850.0,UFA,,0,,0,,0,0,0,Connecticut Sun
+117,Rebekah Gardner,32,6,Rebekah Gardner,U,100000.0,Reserved,,0,,0,,0,0,0,Chicago Sky
+118,Rennia Davis,24,11,Rennia Davis,TC,62285.0,Reserved,,0,,0,,0,0,0.0,Indiana Fever
+119,Reshanda Gray,29,9,Reshanda Gray,TC,74305.0,UFA,,0,,0,,0,0,0,Los Angeles Sparks
+120,Rhyne Howard,22,8,Rhyne Howard,U,73584.0,U,80943.0,OPT,91981.0,RFA,,0,0,0.0,Atlanta Dream
+121,Riquna Williams,32,4,Riquna Williams,U,149350.0,UFA,,0,,0,,0,0,0,Las Vegas Aces
+122,Rui Machida,30,14,Rui Machida,UFA,,0,,0,,0,,0,0,0.0,Washington Mystics
+123,Ruthy Hebard,24,8,Ruthy Hebard,R,83194.0,RFA,,0,,0,,0,0,0,Chicago Sky
+124,Sabrina Ionescu,25,6,Sabrina Ionescu,R,86701.0,RFA,,0,,0,,0,0,0,New York Liberty
+125,Sam Thomas,23,13,Sam Thomas,TC,62285.0,Reserved,,0,,0,,0,0,0,Phoenix Mercury
+126,Sami Whitcomb,34,4,Sami Whitcomb,V,142500.0,V,140000.0,UFA,,0,,0,0,0,Seattle Storm
+127,Satou Sabally,24,4,Satou Sabally,R,86701.0,RFA,,0,,0,,0,0,0,Dallas Wings
+128,Shakira Austin,22,8,Shakira Austin,U,73584.0,U,80943.0,OPT,91981.0,RFA,,0,0,0.0,Washington Mystics
+129,Shatori Walker-Kimbrough,27,5,Shatori Walker-Kimbrough,V,95000.0,U,97850.0,UFA,,0,,0,0,0.0,Washington Mystics
+130,Shey Peddy,34,8,Shey Peddy,TC,74305.0,UFA,,0,,0,,0,0,0,Phoenix Mercury
+131,Skylar Diggins-Smith,32,1,Skylar Diggins-Smith,V,234350.0,UFA,,0,,0,,0,0,"2020, 2021, 2022, 2023",Phoenix Mercury
+132,Sophie Cunningham,26,3,Sophie Cunningham,V,150000.0,V,154500.0,UFA,,0,,0,0,0,Phoenix Mercury
+133,Stefanie Dolson,31,4,Stefanie Dolson,V,160000.0,UFA,,0,,0,,0,0,0,New York Liberty
+134,Stephanie Jones,24,12,Stephanie Jones,TC,62285.0,Reserved,,0,,0,,0,0,0.0,Washington Mystics
+135,Stephanie Talbot,28,15,Stephanie Talbot,Full Susp,,V,115000.0,UFA,,0,,0,0,0,Los Angeles Sparks
+136,Sue Bird,42,12,Sue Bird,UFA,,0,,0,,0,,0,0,"2008, 2009",Seattle Storm
+137,Sydney Colson,33,8,Sydney Colson,TC,74305.0,UFA,,0,,0,,0,0,0,Las Vegas Aces
+138,Sylvia Fowles,37,14,Sylvia Fowles,UFA,,0,,0,,0,,0,0,"2015, 2016, 2017",Minnesota Lynx
+139,Teaira McCowan,26,2,Teaira McCowan,V,190000.0,V,195700.0,V,201400.0,UFA,,0,0,0,Dallas Wings
+140,Theresa Plaisance,30,5,Theresa Plaisance,U,90000.0,UFA,,0,,0,,0,0,0,Seattle Storm
+141,Tianna Hawkins,32,6,Tianna Hawkins,TC,74305.0,UFA,,0,,0,,0,0,0.0,Washington Mystics
+142,Tiffany Hayes,33,3,Tiffany Hayes,U,162477.0,UFA,,0,,0,,0,0,0,Connecticut Sun
+143,Tiffany Mitchell,28,4,Tiffany Mitchell,V,135000.0,V,139050.0,UFA,,0,,0,0,0,Minnesota Lynx
+144,Tina Charles,34,13,Tina Charles,UFA,,0,,0,,0,,0,0,"2018, 2019, 2020",Seattle Storm
+145,Tyasha Harris,24,6,Tyasha Harris,R,83194.0,RFA,,0,,0,,0,0,0,Connecticut Sun
+146,Veronica Burton,22,9,Veronica Burton,U,70609.0,U,77669.0,OPT,88261.0,RFA,,0,0,0,Dallas Wings
+147,Victoria Vivians,28,2,Victoria Vivians,V,135000.0,V,137000.0,UFA,,0,,0,0,0.0,Indiana Fever
+148,Yvonne Turner,35,6,Yvonne Turner,TC,74305.0,UFA,,0,,0,,0,0,0,Seattle Storm
