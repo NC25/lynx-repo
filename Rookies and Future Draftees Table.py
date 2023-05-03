@@ -22,23 +22,15 @@ column_to_move2 = df_merged.pop('Pick')  # remove the column from the dataframe
 df_merged.insert(loc=1, column='Pick', value=column_to_move2) 
 
 options = [{'label': val, 'value': val} for val in df_merged['Salary Cap Year'].unique()]
-options2 = [{'label': val, 'value': val} if pd.notnull(val) else {'label': 'None', 'value': 'None'} for val in df_merged['Team'].unique()]
-
-
 
 app = dash.Dash(__name__)
 
 app.layout = html.Div([
     html.H2("Rookies' and Upcoming Draftees' Salaries"),
     dcc.Dropdown(
-        id='dropdown-1',
+        id='dropdown',
         options=options,
         value=options[0]['value']
-    ),
-    dcc.Dropdown(
-        id='dropdown-2',
-        options=options2,
-        value=options2[0]['value']
     ),
     DataTable(
         id='table',
@@ -48,14 +40,10 @@ app.layout = html.Div([
 ])
 
 @app.callback(Output('table', 'data'),
-            [Input('dropdown-1', 'value'), Input('dropdown-2', 'value')])
+            [Input('dropdown', 'value')])
 
-def update_table(value1, value2):
-    filtered_df = df_merged[(df_merged['Salary Cap Year'] == value1) & (df_merged['Team'] == value2)]
-    if value2 is None:
-        filtered_df = df_merged[df_merged['Team'] == value2]
-    else:
-        filtered_df = df_merged[(df_merged['Salary Cap Year'] == value1) & (df_merged['Team'] == value2)]
+def update_table(value):
+    filtered_df = df_merged[(df_merged['Salary Cap Year'] == value)]
     return filtered_df.to_dict('records')
 
 
