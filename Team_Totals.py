@@ -39,7 +39,7 @@ merged_df = pd.concat([df.assign(source=source) for df, source in df_list], igno
 merged_df.insert(0, 'TEAM', merged_df.pop('source'))
 merged_df['PLAYER'] = merged_df['PLAYER'].str.rstrip('\xa0')
 merged_df = merged_df[merged_df['PLAYER'].notna()]
-pattern = r'Total|Players|Cap Room|Guaranteed|Above|Core|Slots|Total Protected Veterans|Open Protected Veteran Slots'
+pattern = r'Total|Players|Cap Room|Guaranteed|Above|Slots|Total Protected Veterans|Open Protected Veteran Slots'
 mask = merged_df['PLAYER'].str.contains(pattern)
 merged_df = merged_df[mask]
 columns_to_delete = list(merged_df.filter(like='TYPE').columns)
