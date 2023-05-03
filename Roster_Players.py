@@ -66,9 +66,22 @@ merged_df['2027 TYPE'] = merged_df['2025 TYPE'].replace({'V': 'Protected Veteran
                                                'D': 'Draftee', 'Reserved': 'Reserved Free Agent',
                                               'SuspCE': 'Suspended-Contract Expired'})
 
+merged_df = merged_df.rename(columns={'2023 TYPE': '2023 Contract Type'})
+merged_df = merged_df.rename(columns={'2024 TYPE': '2024 Contract Type'})
+merged_df = merged_df.rename(columns={'2025 TYPE': '2025 Contract Type'})
+merged_df = merged_df.rename(columns={'2026 TYPE': '2026 Contract Type'})
+merged_df = merged_df.rename(columns={'2027 TYPE': '2027 Contract Type'})
+
+
+merged_df = merged_df.rename(columns={'2023': '2023 Salary'})
+merged_df = merged_df.rename(columns={'2024': '2024 Salary'})
+merged_df = merged_df.rename(columns={'2025': '2025 Salary'})
+merged_df = merged_df.rename(columns={'2026': '2026 Salary'})
+merged_df = merged_df.rename(columns={'2027': '2027 Salary'})
+
 options = [{'label': val, 'value': val} for val in merged_df['TEAM'].unique()]
 
-color_scale = [    {'if': {'column_id': '2023 TYPE', 'filter_query': '{2023 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2024 TYPE', 'filter_query': '{2024 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2025 TYPE', 'filter_query': '{2025 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2026 TYPE', 'filter_query': '{2026 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2027 TYPE', 'filter_query': '{2027 TYPE} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'}]
+color_scale = [    {'if': {'column_id': '2023 Contract Type', 'filter_query': '{2023 Contract Type} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2024 Contract Type', 'filter_query': '{2024 Contract Type} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2025 Contract Type', 'filter_query': '{2025 Contract Type} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},     {'if': {'column_id': '2026 Contract Type', 'filter_query': '{2026 Contract Type} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'},    {'if': {'column_id': '2027 Contract Type', 'filter_query': '{2027 Contract Type} eq "UFA"'}, 'backgroundColor': 'blue', 'color': 'white'}]
 
 
 app = dash.Dash(__name__)
