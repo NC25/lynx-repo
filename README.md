@@ -1,0 +1,1 @@
+I worked with the Minnesota Lynx to create visualizations and analysis on salary cap projections for the each team in WNBA roster. This repository contains Python and Dash code to create these visualizations. Overall, this project has important implications on the Lynx roster, such as directing them where to put their capital and assets
